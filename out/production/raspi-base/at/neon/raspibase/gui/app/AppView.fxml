@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import at.neon.raspibase.gui.features.slideshow.SlideshowView?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.BorderPane?>
+<fx:root type="BorderPane" xmlns="http://javafx.com/javafx"
+         xmlns:fx="http://javafx.com/fxml">
+    <center>
+        <TabPane fx:id="tabPane">
+
+        </TabPane>
+    </center>
+</fx:root>
